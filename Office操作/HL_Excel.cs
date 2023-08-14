@@ -2,7 +2,7 @@
 using System.Data;
 using System.Data.OleDb;
 
-namespace HL.Office
+namespace HL.IO.Office
 {
     public class Excel
     {
