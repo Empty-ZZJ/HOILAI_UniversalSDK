@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOILAI_SDK", "HOILAI_SDK.csproj", "{FC7DD7BD-9A27-409E-A65E-30989E6DA8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7DD7BD-9A27-409E-A65E-30989E6DA8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7DD7BD-9A27-409E-A65E-30989E6DA8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7DD7BD-9A27-409E-A65E-30989E6DA8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7DD7BD-9A27-409E-A65E-30989E6DA8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C830A0D0-F5C5-4120-8CCD-21E4255A6A53}
+	EndGlobalSection
+EndGlobal
