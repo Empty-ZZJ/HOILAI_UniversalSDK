@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace HL.IO.Log
+namespace HL.IO
 {
     public static class HL_Log
     {
