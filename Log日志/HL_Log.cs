@@ -4,8 +4,8 @@ namespace HL.IO
 {
     public static class HL_Log
     {
-        public static bool Is_debug = true;
-        private static readonly object Lock_log = new object();
+        private static readonly bool Is_debug = true;
+        public static readonly object Lock_log = new object();
 
         /// <summary>
         /// 写日志文件
@@ -27,7 +27,6 @@ namespace HL.IO
             {
                 File.AppendAllText(logPath + "log.txt", lin_msg, Encoding.UTF8);
             }
-
 
         }
 
